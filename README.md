@@ -4,7 +4,7 @@ This is the backend service for the **Nestly** project.
 It is built with **Spring Boot** and connects to a **MySQL database** deployed on Railway.
 
 ## 🚀 Technologies Used
-- Java 17 / Spring Boot 3.x
+- Java 17 / Spring Boot 3.5.6
 - MySQL (Railway)
 - JWT Authentication
 - PayPal Integration
